@@ -37,6 +37,11 @@ MMRMMRMRRM
 1 3 N  
 5 1 E
 
+### Usage
+1. Clone the project
+2. Run the Main method of Program.cs file (the test input is hardcoded)
+3. Observe the results
+
 Author: Dennis Peld  
 Language: C#, .NET Core 2.2  
 Environment: JetBrains Rider
