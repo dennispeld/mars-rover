@@ -1,4 +1,4 @@
-# Mars Rover
+## Mars Rover
 
 The *MarsRover* console app was written in C# language using .NET Core 2.2 and JetBrains Rider. 
 
